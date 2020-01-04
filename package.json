@@ -1,0 +1,16 @@
+{
+  "name": "lsk-leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-junit": "^10.0.0"
+  }
+}
