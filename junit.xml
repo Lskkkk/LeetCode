@@ -1,17 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="1" time="17.263">
-  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2020-01-03T08:55:01" time="15.447" tests="1">
-    <testcase classname=" 测试" name=" 测试" time="13.797">
-      <failure>Error: expect(received).toBe(expected) // Object.is equality
-
-Expected: 7
-Received: 6
-    at Object.&lt;anonymous&gt;.test (/Users/lsk/Desktop/Code/LskLeetCode/answers/Q974.js:25:54)
-    at Object.asyncJestTest (/Users/lsk/Desktop/Code/LskLeetCode/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
-    at resolve (/Users/lsk/Desktop/Code/LskLeetCode/node_modules/jest-jasmine2/build/queueRunner.js:43:12)
-    at new Promise (&lt;anonymous&gt;)
-    at mapper (/Users/lsk/Desktop/Code/LskLeetCode/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
-    at promise.then (/Users/lsk/Desktop/Code/LskLeetCode/node_modules/jest-jasmine2/build/queueRunner.js:73:41)</failure>
+<testsuites name="jest tests" tests="22" failures="0" time="1.452">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:56" time="0.331" tests="1">
+    <testcase classname=" 正确情况" name=" 正确情况" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:56" time="0.043" tests="1">
+    <testcase classname=" 正确数据" name=" 正确数据" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.038" tests="1">
+    <testcase classname=" 正确情况" name=" 正确情况" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.043" tests="1">
+    <testcase classname=" --" name=" --" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.039" tests="1">
+    <testcase classname=" 正确数据" name=" 正确数据" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.051" tests="2">
+    <testcase classname=" 测试" name=" 测试" time="0.001">
+    </testcase>
+    <testcase classname=" 大数据" name=" 大数据" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.037" tests="1">
+    <testcase classname=" 测试" name=" 测试" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.035" tests="1">
+    <testcase classname=" 正确情况" name=" 正确情况" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.037" tests="4">
+    <testcase classname=" 正确情况" name=" 正确情况" time="0.001">
+    </testcase>
+    <testcase classname=" 多个开始" name=" 多个开始" time="0">
+    </testcase>
+    <testcase classname=" 不匹配的情况" name=" 不匹配的情况" time="0.001">
+    </testcase>
+    <testcase classname=" 多个中间点" name=" 多个中间点" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.032" tests="1">
+    <testcase classname=" --" name=" --" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.035" tests="1">
+    <testcase classname=" 测试" name=" 测试" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.034" tests="2">
+    <testcase classname=" 测试" name=" 测试" time="0.001">
+    </testcase>
+    <testcase classname=" 测试2" name=" 测试2" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.036" tests="1">
+    <testcase classname=" --" name=" --" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.036" tests="1">
+    <testcase classname=" 测试" name=" 测试" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.033" tests="1">
+    <testcase classname=" 测试" name=" 测试" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.036" tests="1">
+    <testcase classname=" 正确数据" name=" 正确数据" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-01-14T09:48:57" time="0.034" tests="1">
+    <testcase classname=" --" name=" --" time="0">
     </testcase>
   </testsuite>
 </testsuites>
